@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+
+# input data
+data/
+
+# logs
+logs/
+
+# vs code
+.vscode/
